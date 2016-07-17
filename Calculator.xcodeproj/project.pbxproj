@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A6249981D3BB8A0009E1B46 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A6249971D3BB8A0009E1B46 /* CalculatorBrain.swift */; };
 		3AAF1BB61D3A9B1C0063A2A2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAF1BB51D3A9B1C0063A2A2 /* AppDelegate.swift */; };
 		3AAF1BB81D3A9B1C0063A2A2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AAF1BB71D3A9B1C0063A2A2 /* ViewController.swift */; };
 		3AAF1BBB1D3A9B1C0063A2A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3AAF1BB91D3A9B1C0063A2A2 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A6249971D3BB8A0009E1B46 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 		3AAF1BB21D3A9B1C0063A2A2 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AAF1BB51D3A9B1C0063A2A2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3AAF1BB71D3A9B1C0063A2A2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				3AAF1BB51D3A9B1C0063A2A2 /* AppDelegate.swift */,
 				3AAF1BB71D3A9B1C0063A2A2 /* ViewController.swift */,
 				3AAF1BB91D3A9B1C0063A2A2 /* Main.storyboard */,
+				3A6249971D3BB8A0009E1B46 /* CalculatorBrain.swift */,
 				3AAF1BBC1D3A9B1C0063A2A2 /* Assets.xcassets */,
 				3AAF1BBE1D3A9B1C0063A2A2 /* LaunchScreen.storyboard */,
 				3AAF1BC11D3A9B1C0063A2A2 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A6249981D3BB8A0009E1B46 /* CalculatorBrain.swift in Sources */,
 				3AAF1BB81D3A9B1C0063A2A2 /* ViewController.swift in Sources */,
 				3AAF1BB61D3A9B1C0063A2A2 /* AppDelegate.swift in Sources */,
 			);
@@ -295,6 +299,7 @@
 				3AAF1BC61D3A9B1C0063A2A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
